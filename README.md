@@ -33,4 +33,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;                                                                                                                                                 
   </div>
                                                                                                     
-###  🔥 &nbsp; <b>My Stats <b>:<hr> [![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavsharma-coders&theme=dark&background=000000)](https://git.io/streak-stats)  <br>
+###  🔥 &nbsp; <b>My Stats <b>:<hr> [![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavsharma-coder&theme=dark&background=000000)](https://git.io/streak-stats)  <br>
